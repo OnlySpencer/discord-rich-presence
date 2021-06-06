@@ -9,7 +9,7 @@ assets : {
 large_image : "Image",
 large_text : Text in image"
 },
-buttons : [{label : "Button 1" , url : "link"},{label : "Button2",url : "link"}]
+buttons : [{label : "Button 1" , url : "link"},{label : "Button 2",url : "link"}]
 }
 })
 })
